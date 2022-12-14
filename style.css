@@ -1,0 +1,159 @@
+body{
+    background: rgba(0, 96, 16, 0.473);
+    border-bottom: 0px;
+    
+}
+
+
+#cuadro1
+{
+    height: 200px;
+    width: 400px;
+    background: rgba(249, 249, 251, 0.473);
+    float: left;
+    position: absolute;
+    top: 50px;
+    left: 5%;
+    border-radius: 10px;
+
+}
+#cuadro2
+{
+    height: 200px;
+    width:400px;
+    background: rgba(255, 255, 255, 0.473);
+    position: absolute;
+    top: 260px;
+    left: 5%;
+    border-radius: 3px;
+}
+#cuadro3
+{
+    height: 200px;
+    width: 250px;
+    background: rgba(255, 255, 255, 0.473);
+    top: 210px;
+    left: 1%;
+    border-radius: 2px;
+    position: absolute;
+    
+}
+
+#cuadro4
+{
+    height: 410px;
+    width: 670px;
+    background: rgba(255, 255, 255, 0.473);
+    position: absolute;
+    top: -210px;
+    left: 105%;
+    border-radius: 6px;
+}
+
+#cuadro5
+{
+    height: 200px;
+    width: 500px;
+    background: rgba(255, 255, 255, 0.473);
+    float: left;
+    position: absolute;
+    top: 210px;
+    left: 70%;
+    border-radius: 2px;
+
+}
+.borra{
+    clear:both;
+}
+
+#cabecera{
+    position: static;
+    color: rgba(255, 255, 255, 0.685);
+  text-anchor: 300px;
+    font-size: 30px;
+    border-radius: 35px;
+
+}
+#cuadro6
+{
+    height: 200px;
+    width: 300px;
+    background: rgba(246, 246, 246, 0.473);
+    position: absolute;
+    top: 210px;
+    left: 200%;
+    border-radius: 3px;
+}
+
+
+#cuadro7
+{
+    height: 250px;
+    width: 250px;
+    background: rgba(255, 255, 255, 0.473);
+    position: absolute;
+    top: -420px;
+    left: 105%;
+    border-radius: 3px;
+}
+
+#main{
+    background-color: rgb(52, 175, 71);
+}
+
+#cuadro8
+{
+    height: 200px;
+    width: 320px;
+    background: rgba(255, 255, 255, 0.473);
+    position: absolute;
+    top: -150px;
+    left: 110%;
+    border-radius: 3px;
+}
+
+
+
+#cuadro9
+{
+    height: 200px;
+    width: 320px;
+    background: rgba(255, 255, 255, 0.473);
+    position: absolute;
+    top: 60px;
+    left: 110%;
+    border-radius: 3px;
+}
+
+
+
+#cuadro10
+{
+    height: 400px;
+    width: 300px;
+    background: rgba(255, 255, 255, 0.473);
+    position: absolute;
+    top: -150px;
+    left: 220%;
+    border-radius: 3px;
+}
+
+
+#cuadro11
+{
+    height: 250px;
+    width: 360px;
+    background: rgba(255, 255, 255, 0.473);
+    position: absolute;
+    top: -420px;
+    left: 200%;
+    border-radius: 3px;
+}
+
+#imagen1.images{
+    position: relative;
+    width: -100px; ;
+    height: 100px;
+    justify-content: center;
+    size: 100px;
+}
